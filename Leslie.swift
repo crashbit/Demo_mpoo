@@ -1,0 +1,1 @@
+print("death inspires me like a dog")
